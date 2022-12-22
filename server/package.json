@@ -17,7 +17,7 @@
         "@types/jsonwebtoken": "^8.3.5",
         "@types/node": "^12.7.4",
         "express": "^4.17.1",
-        "jsonwebtoken": "^8.5.1",
+        "jsonwebtoken": "^9.0.0",
         "link-module-alias": "^1.2.0",
         "messages-factory": "^1.0.1",
         "messages-for-conglicting-lands": "^1.0.1",
